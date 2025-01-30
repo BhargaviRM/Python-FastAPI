@@ -1,3 +1,5 @@
+
+# for installing FastAPI: pip install "fastapi[standard]"
 # running server: uvicorn main:app --reload
 # http://127.0.0.1:8000 
 # for flagger (http://127.0.0.1:8000/docs)
