@@ -1,3 +1,6 @@
+# test coverage: pytest --cov=fastapiEx --cov-report=term
+# running individual file: pytest tests/test_main_with_pytest.py
+
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
